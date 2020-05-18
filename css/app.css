@@ -1,0 +1,6 @@
+body{
+
+    background-image: url('newsaper.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
